@@ -2,7 +2,7 @@
 
 # Zhangheng GW Astronomy Summer School: Data Analysis Workshop
 
-This repository contains the material to support the data analysis workshop.
+This repository contains the material to support the data analysis workshop. It is based on the 5th GW Open Data Workshop.
 
 Firstly, we recommend taking a look at the setup guide, where you can find the information to configure the workspace where you are going to execute the tutorials.
 
